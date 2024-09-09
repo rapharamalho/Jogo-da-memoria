@@ -1,6 +1,6 @@
-﻿🕹️ Jogo da Velha de Memes de Jogadores de Futebol ⚽
+﻿🕹️ Jogo da Memoria de Memes de Jogadores de Futebol ⚽
 
-Bem-vindo ao Jogo da Velha de Memes de Jogadores de Futebol!
+Bem-vindo ao Jogo da Memoria de Memes de Jogadores de Futebol!
 Um jogo da velha clássico, mas com um toque divertido: todos os pares do tabuleiro é preenchida com memes hilários de jogadores de futebol!
 
 
