@@ -10,10 +10,12 @@ Vença o Jogo: Ao fazer todos os pares dos memes vc ganhará o jogo !
 
 🚀 Instalação
 Clone este repositório:
-
 git clone https://github.com/rapharamalho/Jogo-da-memoria.git
 
 Abra o arquivo index.html no seu navegador.
+
+Caso queira jogar sem clonar o repositorio:
+https://rapharamalho.github.io/Jogo-da-memoria/
 
 🛠️ Tecnologias Usadas
 HTML para a estrutura do jogo
